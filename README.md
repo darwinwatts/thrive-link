@@ -7,7 +7,7 @@ ThriveLink is a comprehensive mental health and wellness platform that empowers 
 - Micro-challenges to build healthy habits
 - Positive milestones and progress visualization
 
-**Demo Video:** https://youtu.be/P8m03879qng?si=stMBqbzYIbNvEsEG
+**Prototype Demo Video:** https://youtu.be/P8m03879qng?si=stMBqbzYIbNvEsEG
 
 ---
 
