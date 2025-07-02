@@ -1,7 +1,5 @@
 # 🌿 ThriveLink – Personalized Wellness Navigator
 
-Imagine feeling unwell—mentally or physically—but not knowing where to start. You Google symptoms, get 500 links, and feel more overwhelmed. ThriveLink AI is your single trusted guide. We combine predictive insights, tailored local resources, and a supportive community—so anyone, from teens to elders, has the tools to thrive.
-
 ThriveLink is a comprehensive mental health and wellness platform that empowers people to take charge of their health through:
 - Daily mood and symptom tracking
 - Tailored local resources by age, location, and eligibility
