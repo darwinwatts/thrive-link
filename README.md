@@ -1,11 +1,6 @@
-# thrive-link
-“Imagine feeling unwell—mentally or physically—but not knowing where to start. You Google symptoms, get 500 links, and feel more overwhelmed. ThriveLink AI is your single trusted guide. We combine predictive insights, tailored local resources, and a supportive community—so anyone, from teens to elders, has the tools to thrive.”
+# 🌿 ThriveLink – Personalized Wellness Navigator
 
-## Folders
-- `client`: Frontend React application
-- `server`: Backend Node.js API
-
-# 🌿 ThriveLink AI – Personalized Wellness Navigator
+Imagine feeling unwell—mentally or physically—but not knowing where to start. You Google symptoms, get 500 links, and feel more overwhelmed. ThriveLink AI is your single trusted guide. We combine predictive insights, tailored local resources, and a supportive community—so anyone, from teens to elders, has the tools to thrive.
 
 ThriveLink is a comprehensive mental health and wellness platform that empowers people to take charge of their health through:
 - Daily mood and symptom tracking
@@ -45,13 +40,21 @@ ThriveLink is a comprehensive mental health and wellness platform that empowers 
 
 ---
 
+## Folders
+- `client`: Frontend React application
+- `server`: Backend Node.js API
+
+---
+
 ## 📂 Project Structure
+```
 thrive-link/
 ├── client/       # React frontend
 ├── server/       # Node.js API backend
 ├── .gitignore
 ├── README.md
 ├── package.json  # Root project config
+```
 
 See full details in each folder.
 
@@ -70,13 +73,19 @@ See full details in each folder.
 ```bash
 git clone https://github.com/darwinwatts/thrive-link.git
 cd thrive-link
+```
 
+```
 npm run install-all
+```
 
+```
 npm run dev
 ```
 
 ## Final Repo Structure
+
+```
 thrive-link/
 ├── client/                        # Frontend React app
 │   ├── public/                    # Public assets
@@ -119,5 +128,5 @@ thrive-link/
 ├── .gitignore
 ├── README.md
 └── package.json                   # Root config with scripts to run both client and server
-
+```
 
